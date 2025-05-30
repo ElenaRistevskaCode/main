@@ -1,5 +1,10 @@
-  function greetUser(name) {
-    return `Hello, ${name}. Glad you're here user.`;
+  
+  const userName = 'Elena';
+  const age = 29;
+  
+  function greetUser(name, age) {
+    let info = name + ' ' + age;
+    return `Hello, ${info}. Glad you're here user.`;
   }
 
   function greetAdmin() {
