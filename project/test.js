@@ -1,5 +1,9 @@
+  
+  const gender = 'Female';
+  
   function greetUser(name) {
-    return `Hello, ${name}. Glad you're here user.`;
+    let info = name + ' ' + gender;
+    return `Hello, ${info}. Glad you're here user.`;
   }
 
   function greetAdmin() {
