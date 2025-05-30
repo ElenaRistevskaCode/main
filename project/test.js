@@ -3,7 +3,7 @@
   }
   
   function greetAdmin() {
-    return `Hello, admin. Glad you're here. Edited this text from branch` ;
+    return `Hello, admin. Glad you're here. Edited this line from from branch` ;
   }
 
   function calculateTotal(price, taxRate) {
