@@ -3,7 +3,7 @@
   }
   
   function greetAdmin() {
-    return `Hello, admin. Glad you're here. Edited this line from from branch` ;
+    return `Hello, admin. Glad you're here. Welcome to Trackado app.` ;
   }
 
   function calculateTotal(price, taxRate) {
